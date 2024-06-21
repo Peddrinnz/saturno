@@ -1,0 +1,31 @@
+{
+  "stores": [
+    {
+      "name": "Store 1",
+      "address": "123 Main St",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62701",
+      "phone": "217-555-1212",
+      "hours": "9-5 M-F"
+    },
+    {
+      "name": "Store 2",
+      "address": "456 Elm St",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62702",
+      "phone": "217-555-1213",
+      "hours": "9-5 M-F"
+    },
+    {
+      "name": "Store 3",
+      "address": "789 Oak St",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62703",
+      "phone": "217-555-1214",
+      "hours": "9-5 M-F"
+    }
+  ]
+}

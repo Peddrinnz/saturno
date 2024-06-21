@@ -1,0 +1,25 @@
+{
+  "stock": [
+    {
+      "id": "0",
+      "sku": "123456",
+      "name": "Sacola Mista",
+      "description": "Sacolas com alimentos doces e salgados",
+      "price": 100
+    },
+    {
+      "id": "1",
+      "sku": "123457",
+      "name": "Sacola Doce",
+      "description": "Sacolas com alimentos doces",
+      "price": 50
+    },
+    {
+      "id": "2",
+      "sku": "123458",
+      "name": "Sacola Salgada",
+      "description": "Sacolas com alimentos salgados",
+      "price": 50
+    }
+  ]
+}
