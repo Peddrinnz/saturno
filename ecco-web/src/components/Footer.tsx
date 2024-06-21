@@ -10,8 +10,10 @@ export function Footer() {
 
   return (
     <footer className="bg-white py-4 border-t mt-6">
-      <h2>ECCO Services</h2>
-      <p>© {year} - CARBON CYCLE LTDA. All rights reserved.</p>
+      <div className="mx-auto max-w-4xl flex justify-between items-center">
+        <h2>ECCO Services</h2>
+        <p>© {year} - CARBON CYCLE LTDA. All rights reserved.</p>
+      </div>
     </footer>
   )
 }
